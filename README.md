@@ -40,5 +40,10 @@ php bin/magento module:status
 Ya puede ingresar al área de administración de Magento2 e ingresar a Tiendas->configuracion->Metodos de pago
 y encontrará el panel de ePayco para configurarlo.
 
+## Pasos
+
+<img src="tuto-1.png" width="400px"/>
+<img src="tuto-2.png" width="400px"/>
+
 
 
